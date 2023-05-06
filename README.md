@@ -1,2 +1,2 @@
 # Guessing-Game
-Contains my guessing game project
+Contains my soluion to codecademy's guessing game project
